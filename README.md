@@ -14,4 +14,6 @@ Ex: python -u "c:\Users\Asus\Desktop\Book\212\intro AI\UIforAss\pygame\introAI\m
  to show Evaluate messenger. Click "Ok" to go back the "Game screen"
 
 # Demo
+<center>
 <img src="demo.gif" width="400" height="300">
+</center>
