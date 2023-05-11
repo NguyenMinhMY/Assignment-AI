@@ -13,5 +13,5 @@ Ex: python -u "c:\Users\Asus\Desktop\Book\212\intro AI\UIforAss\pygame\introAI\m
 - "Board screen": Watch the visualization of the solver, when its done its stop then you press "Esc" on your keyboard
  to show Evaluate messenger. Click "Ok" to go back the "Game screen"
 
-
- ![DEMO](relative%50demo.gif)
+# Demo
+ ![Alt text](relative%50demo.gif)
